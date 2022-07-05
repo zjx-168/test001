@@ -1,0 +1,7 @@
+new
+fixed
+closed
+reject
+reopen
+duplicate
+delay
